@@ -1,0 +1,67 @@
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\PopUpAndNav.exe.config
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\PopUpAndNav.exe
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\PopUpAndNav.pdb
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\App.g.cs
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav_MarkupCompile.cache
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav_MarkupCompile.lref
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\App.baml
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.g.resources
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.Properties.Resources.resources
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csproj.CopyComplete
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.exe
+C:\Users\User\Desktop\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.pdb
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\App.g.cs
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav_MarkupCompile.cache
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav_MarkupCompile.lref
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.exe
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.pdb
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\PopUpAndNav.exe.config
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\PopUpAndNav.exe
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\PopUpAndNav.pdb
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignColors.dll
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\App.baml
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.g.resources
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.Properties.Resources.resources
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csproj.CopyComplete
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\WpfAnimatedGif.dll
+C:\Users\User\Desktop\OS_Project\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\WpfAnimatedGif.xml
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csprojAssemblyReference.cache
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\MainWindow.g.cs
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\App.g.cs
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav_MarkupCompile.cache
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav_MarkupCompile.lref
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\App.baml
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\MainWindow.baml
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.g.resources
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.pdb
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\PopUpAndNav.exe.config
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\PopUpAndNav.exe
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\PopUpAndNav.pdb
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignColors.dll
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\WpfAnimatedGif.dll
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\bin\Debug\WpfAnimatedGif.xml
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.Properties.Resources.resources
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csproj.GenerateResource.cache
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csproj.CoreCompileInputs.cache
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\OS_Project.csproj.CopyComplete
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\WPF\PopUpAndNav\PopUpAndNav\PopUpAndNav\PopUpAndNav\obj\Debug\PopUpAndNav.exe

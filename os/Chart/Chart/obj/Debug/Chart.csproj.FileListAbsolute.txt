@@ -1,0 +1,10 @@
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\bin\Debug\Chart.exe.config
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\bin\Debug\Chart.exe
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\bin\Debug\Chart.pdb
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\obj\Debug\Chart.csprojAssemblyReference.cache
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\obj\Debug\Chart.Form1.resources
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\obj\Debug\Chart.Properties.Resources.resources
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\obj\Debug\Chart.csproj.GenerateResource.cache
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\obj\Debug\Chart.csproj.CoreCompileInputs.cache
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\obj\Debug\Chart.exe
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\Chart\Chart\obj\Debug\Chart.pdb

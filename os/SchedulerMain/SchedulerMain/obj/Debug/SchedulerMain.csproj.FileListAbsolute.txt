@@ -1,0 +1,7 @@
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\SchedulerMain\SchedulerMain\bin\Debug\SchedulerMain.exe.config
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\SchedulerMain\SchedulerMain\bin\Debug\SchedulerMain.exe
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\SchedulerMain\SchedulerMain\bin\Debug\SchedulerMain.pdb
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\SchedulerMain\SchedulerMain\obj\Debug\SchedulerMain.csprojAssemblyReference.cache
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\SchedulerMain\SchedulerMain\obj\Debug\SchedulerMain.csproj.CoreCompileInputs.cache
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\SchedulerMain\SchedulerMain\obj\Debug\SchedulerMain.exe
+C:\Users\qkrdy\OneDrive\Desktop\OS_Project (3)\os\SchedulerMain\SchedulerMain\obj\Debug\SchedulerMain.pdb
